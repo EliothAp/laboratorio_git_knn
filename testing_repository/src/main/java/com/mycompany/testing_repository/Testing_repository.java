@@ -14,6 +14,11 @@ public class Testing_repository {
     
         int numero = 7;
         
-        System.out.println("Soy un numero" + numero);
+        System.out.println("Soy un numero " + numero);
+        
+        int numero2 = 10;
+        int total = numero + numero2;
+        
+        System.out.println("El total es: " + total);
     }
 }
